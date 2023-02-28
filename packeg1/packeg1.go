@@ -15,3 +15,7 @@ func Mod(a int) int {
 	}
 	return -1 * a
 }
+
+func Zero() int {
+	return 0
+}

@@ -6,4 +6,5 @@ func main() {
 	println(packeg1.Sum(1, 2))
 	println(packeg1.Mod(-2))
 	println(packeg1.MySubtract(1, 1))
+	println(packeg1.Zero())
 }
