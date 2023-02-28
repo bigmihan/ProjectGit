@@ -5,6 +5,10 @@ func Sum(a int, b int) int {
 	return a + b
 }
 
+func MySubtract(a int, b int) int {
+	return a - b
+}
+
 func Mod(a int) int {
 	if a > 0 {
 		return a
