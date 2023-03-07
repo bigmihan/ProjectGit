@@ -19,3 +19,7 @@ func Mod(a int) int {
 func Zero() int {
 	return 0
 }
+
+func firstFunc() int {
+	return 1
+}
